@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DragDropDemo</string>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+</resources>

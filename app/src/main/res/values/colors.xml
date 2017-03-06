@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="BorderColor">#db002f</color>
+
+    <color name="ButtonColor">#00579f</color>
+    <color name="TextColorOverButton">#ffffff</color>
+
+    <color name="PayAttentionBGColor">#FFDBDC</color>
+    <color name="FollowInstructionBGColor">#FFF2DD</color>
+    <color name="TeacherAttentionBBColor">#FFEBE5</color>
+
+    <color name="PayAttentionMatchIconsImageBG">#D7E7F1</color>
+    <color name="PayAttentionFrameColor">#0062A6</color>
+
+</resources>
