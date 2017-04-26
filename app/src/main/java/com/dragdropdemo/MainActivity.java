@@ -40,6 +40,21 @@ public class MainActivity extends AppCompatActivity {
         Log.e("Lalit Sharma", "Lalit Sharma");
     }
 
+    private void demoMethodUpdateonGit7() {
+        Log.e("Lalit Sharma", "Lalit Sharma");
+    }
+
+
+    private void demoMethodUpdateonGit8() {
+        Log.e("Lalit Sharma", "Lalit Sharma");
+    }
+
+
+    private void demoMethodUpdateonGit9() {
+        Log.e("Lalit Sharma", "Lalit Sharma");
+    }
+
+
     private void initializeViewComponents() {
         imageTop = (ImageView) findViewById(R.id.topImageView);
         imageMiddle = (ImageView) findViewById(R.id.middleImageView);
