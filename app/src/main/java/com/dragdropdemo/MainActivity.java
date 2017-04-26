@@ -28,18 +28,6 @@ public class MainActivity extends AppCompatActivity {
         PayAttentionAgeGroupOne();
     }
 
-    private void demoMethodUpdateonGit1() {
-        Log.e("Lalit Sharma", "Lalit Sharma");
-    }
-    
-    private void demoMethodUpdateonGit2() {
-        Log.e("Lalit Sharma", "Lalit Sharma");
-    }
-    
-    private void demoMethodUpdateonGit3() {
-        Log.e("Lalit Sharma", "Lalit Sharma");
-    }
-    
     private void demoMethodUpdateonGit4() {
         Log.e("Lalit Sharma", "Lalit Sharma");
     }
