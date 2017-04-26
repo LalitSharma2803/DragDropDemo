@@ -28,6 +28,10 @@ public class MainActivity extends AppCompatActivity {
         PayAttentionAgeGroupOne();
     }
 
+    private void demoMethodUpdateonGit() {
+        Log.e("Lalit Sharma", "Lalit Sharma");
+    }
+
     private void initializeViewComponents() {
         imageTop = (ImageView) findViewById(R.id.topImageView);
         imageMiddle = (ImageView) findViewById(R.id.middleImageView);
@@ -74,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private boolean checkDrawable(ViewGroup view) {
-        View nextChild = ((ViewGroup) view).getChildAt(0);
+        View nextChild = view.getChildAt(0);
         ImageView imageView1 = (ImageView) nextChild;
         ImageView imageView2 = (ImageView) currentDragableView;
 
