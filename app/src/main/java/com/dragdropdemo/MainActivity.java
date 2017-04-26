@@ -31,11 +31,11 @@ public class MainActivity extends AppCompatActivity {
     private void demoMethodUpdateonGit4() {
         Log.e("Lalit Sharma", "Lalit Sharma");
     }
-    
+
     private void demoMethodUpdateonGit5() {
         Log.e("Lalit Sharma", "Lalit Sharma");
     }
-    
+
     private void demoMethodUpdateonGit6() {
         Log.e("Lalit Sharma", "Lalit Sharma");
     }
@@ -51,6 +51,18 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void demoMethodUpdateonGit9() {
+        Log.e("Lalit Sharma", "Lalit Sharma");
+    }
+
+    private void demoMethodUpdateonGit10() {
+        Log.e("Lalit Sharma", "Lalit Sharma");
+    }
+
+    private void demoMethodUpdateonGit11() {
+        Log.e("Lalit Sharma", "Lalit Sharma");
+    }
+
+    private void demoMethodUpdateonGit12() {
         Log.e("Lalit Sharma", "Lalit Sharma");
     }
 
